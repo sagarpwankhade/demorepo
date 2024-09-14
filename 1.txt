@@ -3,3 +3,4 @@ kaise ho bhaiya
 bhoht khub
 ok
 good
+fetch vs pull
